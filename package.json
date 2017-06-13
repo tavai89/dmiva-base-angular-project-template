@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tavai89/dmiva-base-angular-project-template.git"
   },
   "dependencies": {},
   "devDependencies": {
