@@ -1,0 +1,29 @@
+{
+  "name": "angular-project-template",
+  "version": "1.0.0",
+  "author": "Dmiva (Taras Ilyin)",
+  "description": "Base angular application template for quick start",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-angular-templates": "^1.1.0",
+    "grunt-concurrent": "^2.1.0",
+    "grunt-connect": "^0.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-htmlmin": "^2.3.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-include-source": "^1.1.0",
+    "grunt-open": "^0.2.3",
+    "grunt-remove-logging": "^0.2.0",
+    "load-grunt-tasks": "^3.4.0"
+  }
+}
